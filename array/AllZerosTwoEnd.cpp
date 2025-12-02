@@ -2,7 +2,7 @@
 using namespace std;
 
 /* brute force */   
-/* time complwxity o (n^2) space complexity 0(n^2)*/
+/* time complexity o (n) space complexity 0(n)*/
 
 //  void allZeros(int arr[],int n){
 
@@ -33,6 +33,8 @@ using namespace std;
 
 //  }
 
+
+/* time complexity  o(n) and space complexity 0(1) */
  void allZeros(int arr[],int n){
 
     if (n==0){
