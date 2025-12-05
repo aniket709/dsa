@@ -1,0 +1,29 @@
+name: CI-CD PIPELINE
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install cpplint
+        run: pip install cpplint
+
+      - name: Run cpplint (C++ linter)
+        run: |
+          find . -name "*.cpp" -print0 | xargs -0 cpplint
+
+      - name: Compile all C++ files
+        run: |
+          for file in $(find . -name "*.cpp"); do
+            echo "Compiling $file"
+            g++ -std=c++17 "$file" -o output || exit 1
+          done
