@@ -1,0 +1,35 @@
+BasedOnStyle: Google
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+ColumnLimit: 120
+
+# cpplint-safe brace style
+BreakBeforeBraces: Attach
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortBlocksOnASingleLine: false
+
+# No extra blank lines
+MaxEmptyLinesToKeep: 1
+
+# Spaces
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+SpacesInAngles: false
+SpacesInCStyleCastParentheses: false
+
+# Keep includes sorted
+SortIncludes: true
+
+# No messing up includes
+IncludeBlocks: Preserve
+
+# Prevent formatting inside macros
+DisableFormat:   false
+
+# Align operands
+AlignOperands: true
+
+# cpplint prefers compact pointer alignment
+PointerAlignment: Left

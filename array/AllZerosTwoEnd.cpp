@@ -1,7 +1,7 @@
-# include<iostream>
-using namespace std;
-
-/* brute force */   
+// Copyright 2025 Aniket Ranjan
+#include <iostream>
+using std::cout;
+/* brute force */
 /* time complexity o (n) space complexity 0(n)*/
 
 //  void allZeros(int arr[],int n){
@@ -33,40 +33,33 @@ using namespace std;
 
 //  }
 
-
 /* time complexity  o(n) and space complexity 0(1) */
- void allZeros(int arr[],int n){
+void allZeros(int arr[], int n) {
+  if (n == 0) {
+    return;
+  }
 
-    if (n==0){
-        return ;
+  int j = 0;
+  for (int i = 0; i < n; i++) {
+    if (arr[i] != 0 && arr[j] == 0) {
+      int temp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = temp;
     }
 
-    int j=0;
-    for (int i=0;i<n;i++){
-
-        if(arr[i]!=0 && arr[j]==0){
-
-            int temp = arr[i];
-            arr[i]=arr[j];
-            arr[j]=temp;
-        }
-
-        if (arr[j]!=0){
-            j++;
-        }
+    if (arr[j] != 0) {
+      j++;
     }
+  }
 
-    // traversing the array 
+  // traversing the array
 
-    for (int i=0;i<n;i++){
-        cout<<arr[i]<<" ";
-    }
+  for (int i = 0; i < n; i++) {
+    cout << arr[i] << " ";
+  }
+}
+int main() {
+  int arr[7] = {0, 1, 2, 3, 0, 8, 4};
 
- }
-int main(){
-
-    int arr[7]= {0,1,2,3,0,8,4};
-
-    allZeros(arr,7);
-
+  allZeros(arr, 7);
 }

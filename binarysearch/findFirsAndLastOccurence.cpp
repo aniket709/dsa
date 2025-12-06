@@ -1,13 +1,15 @@
-#include<iostream>
-using namespace std;
+// Copyright 2025 Aniket Ranjan
+#include <iostream>
+using std::cout;
+#include <vector>
 
-// linear search 0(n) 
+// linear search 0(n)
 
 // vector<int>findFirstAndLastOccurence(vector<int> arr,int target){
 
 //     int n= arr.size();
 //     vector<int> ans(2,-1);
-    
+
 //     for (int i=0;i<n;i++){
 //         if(arr[i]==target){
 //             arr[0]=i;
@@ -26,54 +28,47 @@ using namespace std;
 
 // }
 
-// optimize approach 0(logn) 
-vector<int>findFirstAndLastOccurence(vector<int> arr,int target){
-    int n = arr.size();
+// // optimize approach 0(logn)
+// vector<int> findFirstAndLastOccurence(vector<int> arr, int target) {
+//   int n = arr.size();
 
-    vector<int> ans(2,-1);
+//   vector<int> ans(2, -1);
 
-    int start=0;
-    int end=n-1;
+//   int start = 0;
+//   int end = n - 1;
 
-    while (start<=end){
-        int mid = start+ (end-start)/2;
+//   while (start <= end) {
+//     int mid = start + (end - start) / 2;
 
-        if (arr[mid]==target){
-            ans[0]=mid;
-            end=mid-1;
-        }
-        else if(arr[mid] > target){
-            end=mid-1;
-        }
-        else{
-            start=mid+1;
-        }
-    }
-    start=0;
-    end=n-1;
-    while (start<=end){
-        int mid = start+ (end-start)/2;
+//     if (arr[mid] == target) {
+//       ans[0] = mid;
+//       end = mid - 1;
+//     } else if (arr[mid] > target) {
+//       end = mid - 1;
+//     } else {
+//       start = mid + 1;
+//     }
+//   }
+//   start = 0;
+//   end = n - 1;
+//   while (start <= end) {
+//     int mid = start + (end - start) / 2;
 
-        if (arr[mid]==target){
-            ans[1]=mid;
-            start=mid+1;
-        }
-        else if(arr[mid] > target){
-            end=mid-1;
-        }
-        else{
-            start=mid+1;
-        }
-    }
+//     if (arr[mid] == target) {
+//       ans[1] = mid;
+//       start = mid + 1;
+//     } else if (arr[mid] > target) {
+//       end = mid - 1;
+//     } else {
+//       start = mid + 1;
+//     }
+//   }
 
-    cout<<ans[0]<<" "<<ans[1];
-    return ans;
+//   cout << ans[0] << " " << ans[1];
+//   return ans;
+// }
+// int main() {
 
-}
-int main(){
-
-    vector<int>arr={1,2,3,5,5,5,5,9};
-    findFirstAndLastOccurence(arr,5);
-
-
-}
+//   vector<int> arr = {1, 2, 3, 5, 5, 5, 5, 9};
+//   findFirstAndLastOccurence(arr, 5);
+// }
