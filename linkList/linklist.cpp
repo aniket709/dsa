@@ -31,7 +31,6 @@ class Node{
         }
         temp->next=newNode;
     }
-
      void insertAtBegning(int data){
         Node* temp=head;
 
@@ -42,7 +41,6 @@ class Node{
         headNode->next=head;
         head=headNode;
      }
-
   void insertAtKPosition(int k, int data) {
 
     if (k == 1) {
@@ -78,6 +76,65 @@ class Node{
             temp=temp->next;
         }
     }
+    void deleteAtBegning(){
+
+        if (head==nullptr){
+            return;
+        }
+        head=head->next;
+    }
+
+    void deleteAtEnding(){
+        if(head==nullptr){
+            return;
+        }
+        if (head->next==nullptr){
+            delete head;
+            head=nullptr;
+            return;
+        }
+        Node*temp=head;
+        Node*prev=nullptr;
+        while (temp!=nullptr){
+            prev=temp;
+            temp=temp->next;
+        }
+        prev->next=nullptr;
+        delete temp;
+    }
+
+ void deleteKthElement(int k) {
+
+    int cnt = 0;
+
+    if (head == nullptr) {
+        return;
+    }
+
+    Node* temp = head;
+    Node* prev = nullptr;
+
+    while (temp != nullptr) {
+        cnt++;
+
+        if (cnt == k) {
+            break;
+        }
+
+        prev = temp;
+        temp = temp->next;
+    }
+    if (temp == nullptr) {
+        return;
+    }
+    if (prev == nullptr) {
+        head = temp->next;
+    } else {
+        prev->next = temp->next;
+    }
+
+    delete temp;
+}
  };
 
  int main (){
@@ -85,8 +142,7 @@ class Node{
     list.insertAtEnd(14);
     list.insertAtEnd(13);
     list.insertAtEnd(20);
-    list.insertAtBegning(99);
-    list.insertAtKPosition(4,101);
+    list.deleteKthElement(2);
     list.traverse();
 
 
