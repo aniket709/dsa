@@ -14,6 +14,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -48,4 +49,12 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
