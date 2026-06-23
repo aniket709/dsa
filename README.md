@@ -18,6 +18,7 @@ Maintain a clean, structured study log
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -26,6 +27,7 @@ Maintain a clean, structured study log
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
@@ -56,6 +58,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +68,13 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
