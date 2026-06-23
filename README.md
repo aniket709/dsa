@@ -13,11 +13,13 @@ Maintain a clean, structured study log
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
