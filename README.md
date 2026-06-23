@@ -15,6 +15,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket709/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
@@ -72,9 +73,14 @@ Maintain a clean, structured study log
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
