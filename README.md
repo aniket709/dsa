@@ -15,6 +15,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket709/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
@@ -82,5 +84,6 @@ Maintain a clean, structured study log
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
