@@ -64,6 +64,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket709/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
