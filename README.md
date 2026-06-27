@@ -24,6 +24,7 @@ Maintain a clean, structured study log
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ Maintain a clean, structured study log
 | [0001-two-sum](https://github.com/aniket709/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
@@ -121,4 +123,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
