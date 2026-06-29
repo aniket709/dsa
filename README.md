@@ -37,6 +37,7 @@ Maintain a clean, structured study log
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
