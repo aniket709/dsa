@@ -19,6 +19,7 @@ Maintain a clean, structured study log
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket709/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/aniket709/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aniket709/dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
@@ -121,6 +122,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -159,6 +161,7 @@ Maintain a clean, structured study log
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
