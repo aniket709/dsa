@@ -32,6 +32,7 @@ Maintain a clean, structured study log
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Maintain a clean, structured study log
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -127,4 +130,24 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
