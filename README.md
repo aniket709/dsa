@@ -48,6 +48,7 @@ Maintain a clean, structured study log
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
 ## Sliding Window
@@ -77,6 +78,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -168,4 +171,8 @@ Maintain a clean, structured study log
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
