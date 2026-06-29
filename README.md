@@ -33,6 +33,7 @@ Maintain a clean, structured study log
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -159,4 +160,5 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
