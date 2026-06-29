@@ -30,6 +30,7 @@ Maintain a clean, structured study log
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
@@ -87,6 +88,7 @@ Maintain a clean, structured study log
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Maintain a clean, structured study log
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -152,4 +155,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
