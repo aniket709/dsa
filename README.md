@@ -36,6 +36,7 @@ Maintain a clean, structured study log
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
+| [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -73,10 +74,12 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
