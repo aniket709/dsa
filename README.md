@@ -76,6 +76,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
@@ -222,15 +223,18 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
