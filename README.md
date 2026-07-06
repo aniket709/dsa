@@ -100,6 +100,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0048-rotate-image](https://github.com/aniket709/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -147,6 +148,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -235,6 +238,11 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
