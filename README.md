@@ -75,6 +75,7 @@ Maintain a clean, structured study log
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/aniket709/dsa/tree/master/2390-removing-stars-from-a-string) |
@@ -216,4 +217,16 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/aniket709/dsa/tree/master/2390-removing-stars-from-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
