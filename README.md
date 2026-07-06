@@ -208,6 +208,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aniket709/dsa/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aniket709/dsa/tree/master/0101-symmetric-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -228,6 +229,7 @@ Maintain a clean, structured study log
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/aniket709/dsa/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aniket709/dsa/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -235,6 +237,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aniket709/dsa/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aniket709/dsa/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -243,6 +246,7 @@ Maintain a clean, structured study log
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket709/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/aniket709/dsa/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aniket709/dsa/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket709/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket709/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
