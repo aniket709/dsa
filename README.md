@@ -35,6 +35,7 @@ Maintain a clean, structured study log
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
@@ -123,6 +124,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
