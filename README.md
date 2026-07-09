@@ -42,6 +42,7 @@ Maintain a clean, structured study log
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -147,6 +148,7 @@ Maintain a clean, structured study log
 | [0073-set-matrix-zeroes](https://github.com/aniket709/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aniket709/dsa/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
@@ -220,6 +222,7 @@ Maintain a clean, structured study log
 | [0102-binary-tree-level-order-traversal](https://github.com/aniket709/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/aniket709/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
