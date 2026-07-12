@@ -57,6 +57,7 @@ Maintain a clean, structured study log
 | [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket709/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +142,7 @@ Maintain a clean, structured study log
 | [0056-merge-intervals](https://github.com/aniket709/dsa/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniket709/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
