@@ -234,6 +234,7 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aniket709/dsa/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -244,6 +245,7 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -276,6 +278,7 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/aniket709/dsa/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -296,4 +299,5 @@ Maintain a clean, structured study log
 | ------- |
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
