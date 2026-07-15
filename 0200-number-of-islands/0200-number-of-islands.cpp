@@ -1,44 +1,48 @@
 class Solution {
-public:
-    void dfs(vector<vector<char>>& grid,
-         int row,
-         int col,
-         vector<vector<bool>>& visited) {
+public: 
+ void dfs (int row,int col , vector<vector<bool>>&visited,vector<vector<char>>& grid ){
 
-    int n = grid.size();
-    int m = grid[0].size();
+        visited[row][col]=true;
+        int n = grid.size();
+        int m= grid[0].size();
 
-    if (row < 0 || row >= n || col < 0 || col >= m)
-        return;
+        int delRow[]={-1,1,0,0};
+        int delCol[]={0,0,-1,1};
+      
+        for (int i=0;i<4;i++){
 
-    if (grid[row][col] == '0' || visited[row][col])
-        return;
+        int newrow = delRow[i] + row;
+        int newcol = delCol[i] + col;
 
-    visited[row][col] = true;
 
-    dfs(grid, row + 1, col, visited);
-    dfs(grid, row - 1, col, visited);
-    dfs(grid, row, col + 1, visited);
-    dfs(grid, row, col - 1, visited);
-}
+       if (newrow >= 0 && newrow < n &&
+    newcol >= 0 && newcol < m &&
+    !visited[newrow][newcol] &&
+    grid[newrow][newcol] == '1')
+    {
+          
+
+            dfs (newrow,newcol,visited,grid);
+        }
+      }  
+ }
     int numIslands(vector<vector<char>>& grid) {
 
-        int n= grid.size();
+        int n = grid.size();
         int m= grid[0].size();
-       vector<vector<bool>>visited(n,vector<bool>(m,0));
-       int cnt=0;
-       
-       for (int i=0;i<n;i++){
 
-        for (int j=0;j<m;j++){
+         vector<vector<bool>>visited(n,vector<bool>(m,0));
+         int cnt=0;
 
-            if (grid[i][j]=='1' && !visited[i][j]){
-                  cnt++;
-                dfs (grid,i,j,visited);
+         for (int i=0;i<n;i++){
+            for (int j=0;j<m;j++){
+                if(!visited[i][j] && grid[i][j]=='1'){
+                    dfs (i,j,visited,grid);
+                      cnt++;
+                }
             }
-        }  
-       }
-    return cnt;
+         }
+return cnt;
         
     }
 };
