@@ -170,6 +170,7 @@ Maintain a clean, structured study log
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aniket709/dsa/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/aniket709/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -241,6 +243,7 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aniket709/dsa/tree/master/1020-number-of-enclaves) |
@@ -254,11 +257,13 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
@@ -287,6 +292,7 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/aniket709/dsa/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/aniket709/dsa/tree/master/1631-path-with-minimum-effort) |
