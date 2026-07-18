@@ -1,53 +1,53 @@
 class Solution {
   public:
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
-      
-         vector<int> ans;
+       
+       vector<pair<int,int>> adj[V];
+        
+         for (auto it : edges){
+             
+             int u = it[0];
+             int v= it[1];
+             int wt = it[2];
+             adj[u].push_back({v,wt});
+             adj[v].push_back({u,wt});
+         }
          
-          vector<pair<int,int>> adj [V];
-          
-          for (int i=0;i<edges.size();i++){
-              
-              int u = edges[i][0];
-              int v= edges[i][1];
-              int wt = edges[i][2];
-              
-              adj[u].push_back({v,wt});
-              adj[v].push_back({u,wt});
-              
-          }
-        vector<int> dist(V, INT_MAX);
-          
-          dist[src]=0;
-          
-          priority_queue<
+    priority_queue<
     pair<int,int>,
     vector<pair<int,int>>,
     greater<pair<int,int>>
-> minheap;
-
-  minheap.push({0,src});
-  while (!minheap.empty()){
-      
-   
-      int wt = minheap.top().first;
-      int node = minheap.top().second;
-       minheap.pop();
-      
-      for (auto it : adj[node]){
-          
-         int adjNode = it.first;
-          int edgeWeight = it.second;
+> pq;
+    
+    vector<int>distance (V,INT_MAX);
+    
+    distance[src]=0;
+    
+     pq.push({0,src});
+     
+     while (!pq.empty()){
          
-         if (wt + edgeWeight < dist[adjNode]){
+         int dist = pq.top().first;
+         int node = pq.top().second;
+         pq.pop();
+         
+        for (const auto &it : adj[node]){
              
-             dist[adjNode] = wt + edgeWeight;
-             minheap.push({dist[adjNode],adjNode});
+              int adjNode = it.first;
+              int edgeWeight= it.second;
+              
+              if (dist > distance[node])
+    continue;
+              
+              if (dist + edgeWeight < distance[adjNode]){
+                  
+                distance[adjNode] =  dist + edgeWeight ;
+                 pq.push({distance[adjNode],adjNode});
+              }
          }
-         
-      }
-  }
-     return dist;    
+     }
+    
+       return distance;
         
     }
 };
