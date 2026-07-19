@@ -1,35 +1,34 @@
 class Solution {
 public:
-
-  void dfs (int node,   vector<bool> &visited ,vector<vector<int>> &adj ){
-
-    visited[node]=true;
-     for (auto it : adj[node]){
-        if(!visited[it]) dfs (it,visited,adj);
-     }
-  }
     int findCircleNum(vector<vector<int>>& isConnected) {
-         
-         int n =isConnected.size();
-        vector<vector<int>> adj(n);
 
-        for (int i = 0; i < n; i++) {
-    for (int j = 0; j < n; j++) {
-        if (i != j && isConnected[i][j] == 1) {
-            adj[i].push_back(j);
-        }
-    }
-}
-int cnt=0;
+        int n= isConnected.size();
+        queue<int>q;
         vector<bool> visited(n,false);
+        int cnt=0;
 
         for (int i=0;i<n;i++){
 
-         if (!visited[i])    cnt ++;
+            if (!visited[i]) cnt++;
+            q.push(i);
+            visited[i] = true;
 
-            dfs(i,visited,adj);
+            while (!q.empty()){
+
+                int node = q.front();
+                q.pop();
+
+                for (int j=0;j<n;j++){
+                    if (isConnected[node][j]==1 && !visited[j]){
+                             visited[j] = true;
+                        q.push(j);
+                    }
+                }
+            }
+
+            
         }
-return cnt;
+        return cnt;
         
     }
 };
