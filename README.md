@@ -52,6 +52,7 @@ Maintain a clean, structured study log
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Maintain a clean, structured study log
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,4 +327,8 @@ Maintain a clean, structured study log
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/aniket709/dsa/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
