@@ -84,6 +84,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aniket709/dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Maintain a clean, structured study log
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -131,6 +133,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
