@@ -11,9 +11,9 @@ public:
             ans.push_back(nums[i]);
              
             }
-            else{
-                 continue;
-            }
+            // else{
+            //      continue;
+            // }
         }
      nums.clear();
 
