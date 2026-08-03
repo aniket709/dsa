@@ -82,6 +82,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aniket709/dsa/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/aniket709/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
