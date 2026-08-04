@@ -44,6 +44,7 @@ Maintain a clean, structured study log
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
+| [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/aniket709/dsa/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
@@ -77,6 +78,7 @@ Maintain a clean, structured study log
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aniket709/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aniket709/dsa/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket709/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -152,6 +154,7 @@ Maintain a clean, structured study log
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1631-path-with-minimum-effort](https://github.com/aniket709/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
@@ -344,4 +347,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
