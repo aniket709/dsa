@@ -43,6 +43,7 @@ Maintain a clean, structured study log
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/aniket709/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/aniket709/dsa/tree/master/0733-flood-fill) |
@@ -70,6 +71,7 @@ Maintain a clean, structured study log
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aniket709/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/aniket709/dsa/tree/master/0575-distribute-candies) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket709/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -350,5 +352,6 @@ Maintain a clean, structured study log
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aniket709/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
