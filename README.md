@@ -39,6 +39,7 @@ Maintain a clean, structured study log
 | [0239-sliding-window-maximum](https://github.com/aniket709/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket709/dsa/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
@@ -205,6 +206,7 @@ Maintain a clean, structured study log
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
@@ -369,4 +371,12 @@ Maintain a clean, structured study log
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aniket709/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/aniket709/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniket709/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
