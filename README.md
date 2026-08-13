@@ -42,6 +42,7 @@ Maintain a clean, structured study log
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
@@ -207,6 +208,7 @@ Maintain a clean, structured study log
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
@@ -375,8 +377,14 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
