@@ -45,6 +45,7 @@ Maintain a clean, structured study log
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aniket709/dsa/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/aniket709/dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aniket709/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +212,7 @@ Maintain a clean, structured study log
 | [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/aniket709/dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aniket709/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
@@ -382,6 +384,7 @@ Maintain a clean, structured study log
 | [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/aniket709/dsa/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -395,4 +398,5 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/aniket709/dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
