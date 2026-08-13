@@ -39,6 +39,7 @@ Maintain a clean, structured study log
 | [0239-sliding-window-maximum](https://github.com/aniket709/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket709/dsa/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniket709/dsa/tree/master/0485-max-consecutive-ones) |
@@ -207,6 +208,7 @@ Maintain a clean, structured study log
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
@@ -283,6 +285,7 @@ Maintain a clean, structured study log
 | [0200-number-of-islands](https://github.com/aniket709/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aniket709/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket709/dsa/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/aniket709/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aniket709/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aniket709/dsa/tree/master/0733-flood-fill) |
@@ -376,6 +379,7 @@ Maintain a clean, structured study log
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket709/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -387,4 +391,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
