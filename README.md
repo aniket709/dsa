@@ -137,6 +137,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0048-rotate-image](https://github.com/aniket709/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
@@ -210,6 +211,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aniket709/dsa/tree/master/0322-coin-change) |
@@ -409,4 +411,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/aniket709/dsa/tree/master/1092-shortest-common-supersequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
