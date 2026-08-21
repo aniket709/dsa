@@ -124,6 +124,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/aniket709/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
@@ -154,6 +155,7 @@ Maintain a clean, structured study log
 | [0027-remove-element](https://github.com/aniket709/dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aniket709/dsa/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aniket709/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniket709/dsa/tree/master/0283-move-zeroes) |
