@@ -105,6 +105,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aniket709/dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/aniket709/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 ## Stack
@@ -142,6 +143,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0048-rotate-image](https://github.com/aniket709/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniket709/dsa/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aniket709/dsa/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aniket709/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
