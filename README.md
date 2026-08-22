@@ -132,6 +132,7 @@ Maintain a clean, structured study log
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/aniket709/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
 | [1092-shortest-common-supersequence](https://github.com/aniket709/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket709/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -171,6 +172,7 @@ Maintain a clean, structured study log
 | [0191-number-of-1-bits](https://github.com/aniket709/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aniket709/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -412,6 +414,7 @@ Maintain a clean, structured study log
 | [0022-generate-parentheses](https://github.com/aniket709/dsa/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aniket709/dsa/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
 ## Complete Knapsack
 |  |
 | ------- |
