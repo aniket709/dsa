@@ -125,6 +125,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket709/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/aniket709/dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/aniket709/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ Maintain a clean, structured study log
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aniket709/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aniket709/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
@@ -407,6 +409,7 @@ Maintain a clean, structured study log
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aniket709/dsa/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aniket709/dsa/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 ## Complete Knapsack
@@ -422,4 +425,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniket709/dsa/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aniket709/dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
