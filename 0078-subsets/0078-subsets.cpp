@@ -1,41 +1,29 @@
 class Solution {
 public:
+ void solve (int i,    vector<vector<int>>&ans, vector<int> output,
+    vector<int>& nums ){
 
- void solve(vector<int>& nums, vector<int> output, vector<vector<int>> &ans , int i){
+        if (i==nums.size()) {
+            ans.push_back(output);
+            return ;
+        }
 
-    if ( i >= nums.size()) {
+        solve(i+1,ans,output,nums);
 
-        ans.push_back(output);
-        
-        return ;
+        output.push_back(nums[i]);
+         solve(i+1,ans,output,nums);
 
-    }
 
-     solve (nums,output,ans,i+1);
-
-      output.push_back(nums[i]);
-
-      solve (nums,output,ans,i+1);
-
-      
 
  }
-
-    
-
-
- 
-  
     vector<vector<int>> subsets(vector<int>& nums) {
 
-        vector<int> output;
-         vector<vector<int>> ans;
+     vector<vector<int>> ans;
+     vector<int> output;
 
-         solve (nums,output,ans,0);
+      solve (0,ans,output,nums);
 
-      return ans;
-
-
+     return ans;
         
     }
 };
