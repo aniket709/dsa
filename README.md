@@ -30,6 +30,7 @@ Maintain a clean, structured study log
 | [0074-search-a-2d-matrix](https://github.com/aniket709/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aniket709/dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aniket709/dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aniket709/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket709/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aniket709/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aniket709/dsa/tree/master/0130-surrounded-regions) |
@@ -172,6 +173,7 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aniket709/dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/aniket709/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aniket709/dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aniket709/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
@@ -419,6 +421,7 @@ Maintain a clean, structured study log
 | [0039-combination-sum](https://github.com/aniket709/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aniket709/dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket709/dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/aniket709/dsa/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/aniket709/dsa/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
 ## Complete Knapsack
