@@ -60,6 +60,7 @@ Maintain a clean, structured study log
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/aniket709/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aniket709/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aniket709/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -170,6 +171,7 @@ Maintain a clean, structured study log
 | [0283-move-zeroes](https://github.com/aniket709/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Maintain a clean, structured study log
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
