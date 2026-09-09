@@ -2,8 +2,8 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
 
-        if (nums.size()==1 && nums[0]==1) return 0;
-        if (nums.size()==1 && nums[0]==0) return 1;
+        // if (nums.size()==1 && nums[0]==1) return 0;
+        // if (nums.size()==1 && nums[0]==0) return 1;
 
         int sum = 0;
         int n= nums.size();
