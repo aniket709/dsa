@@ -13,9 +13,9 @@ public:
 
         if (allsum  - sum > 0 ) return allsum-sum;
 
-         else if (allsum  - sum == 0) return 0;
+        //  else if (allsum  - sum == 0) return 0;
 
-        return n+1; 
+        return 0;
         
     }
 };
