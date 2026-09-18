@@ -71,6 +71,7 @@ Maintain a clean, structured study log
 | [1590-make-sum-divisible-by-p](https://github.com/aniket709/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/aniket709/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniket709/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket709/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniket709/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket709/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -176,6 +177,7 @@ Maintain a clean, structured study log
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Maintain a clean, structured study log
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +305,7 @@ Maintain a clean, structured study log
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Queue
 |  |
 | ------- |
