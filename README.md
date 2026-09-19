@@ -139,6 +139,7 @@ Maintain a clean, structured study log
 | [0151-reverse-words-in-a-string](https://github.com/aniket709/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aniket709/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aniket709/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/aniket709/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
@@ -175,6 +176,7 @@ Maintain a clean, structured study log
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniket709/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aniket709/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
