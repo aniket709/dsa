@@ -2,28 +2,45 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
 
-        int n = nums.size();
-        int pivot = -1;
+       int j = nums.size() - 1;
+    int n = nums.size();
+    int breaking_index = -1;
 
-        for(int i = n - 2; i >= 0; i--){
-            if(nums[i] < nums[i + 1]){
-                pivot = i;
-                break;
-            }
+    // Find breaking index
+    while (j > 0) {
+
+        if (nums[j] > nums[j - 1]) {
+
+            breaking_index = j - 1;
+
+            break;
         }
 
-        if(pivot == -1){
-            reverse(nums.begin(), nums.end());
-            return;
-        }
-
-        for(int i = n - 1; i > pivot; i--){
-            if(nums[i] > nums[pivot]){
-                swap(nums[i], nums[pivot]);
-                break;
-            }
-        }
-
-        reverse(nums.begin() + pivot + 1, nums.end());
+        j--;
     }
+
+    // No breaking index
+    if (breaking_index == -1) {
+        reverse(nums.begin(), nums.end());
+        return;
+    }
+
+    // Find element greater than breaking element
+    j = nums.size() - 1;
+
+    while (j >= breaking_index) {
+
+        if (nums[j] > nums[breaking_index]) {
+
+            swap(nums[j], nums[breaking_index]);
+
+            break;
+        }
+
+        j--;
+    }
+    reverse(nums.begin() + breaking_index + 1, nums.end());
+}
+
+    
 };
