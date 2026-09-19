@@ -1,35 +1,38 @@
 class Solution {
 public:
-void pali(string& s, int i, string& str) {
+  bool checkPalindrome(string str){
 
-    if (i >= s.length())
-        return;
+    int i=0,j=str.length()-1;
 
-    if (isalnum(s[i]))
-        str.push_back(tolower(s[i]));
+    while ( j >=i){
 
-    pali(s, i + 1, str);
-}
+        if (str[j]!=str[i]){
+            return false;
+        }
+        i++;
+        j--;
+    }
 
-bool solve(string& str, int i) {
+    return true;
 
-    if (i >= str.length() / 2)
-        return true;
 
-    if (str[i] != str[str.length() - i - 1])
-        return false;
 
-    return solve(str, i + 1);
-}
+  }
+    bool isPalindrome(string s) {
 
-bool isPalindrome(string s) {
+        string str="";
 
-    string str = "";
+        if (s.length()==0) return true;
 
-    pali(s, 0, str);
+        for (int i=0;i<s.length();i++){
 
-    return solve(str, 0);
+            if (isalnum(s[i])){
+  
+            str.push_back(tolower(s[i]));
+            }
+        }
 
+        return checkPalindrome(str);
         
     }
 };
