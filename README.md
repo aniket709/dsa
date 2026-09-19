@@ -157,6 +157,7 @@ Maintain a clean, structured study log
 | [0189-rotate-array](https://github.com/aniket709/dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniket709/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniket709/dsa/tree/master/0268-missing-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aniket709/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aniket709/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket709/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -461,4 +462,8 @@ Maintain a clean, structured study log
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aniket709/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
