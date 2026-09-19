@@ -142,6 +142,7 @@ Maintain a clean, structured study log
 | [0345-reverse-vowels-of-a-string](https://github.com/aniket709/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket709/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/aniket709/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/aniket709/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/aniket709/dsa/tree/master/0784-letter-case-permutation) |
 | [1092-shortest-common-supersequence](https://github.com/aniket709/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket709/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -178,6 +179,7 @@ Maintain a clean, structured study log
 | [0344-reverse-string](https://github.com/aniket709/dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aniket709/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/aniket709/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -306,6 +308,7 @@ Maintain a clean, structured study log
 | ------- |
 | [0055-jump-game](https://github.com/aniket709/dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/aniket709/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
