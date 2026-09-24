@@ -59,6 +59,7 @@ Maintain a clean, structured study log
 | [0713-subarray-product-less-than-k](https://github.com/aniket709/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/aniket709/dsa/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/aniket709/dsa/tree/master/0739-daily-temperatures) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/aniket709/dsa/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0860-lemonade-change](https://github.com/aniket709/dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/aniket709/dsa/tree/master/0912-sort-an-array) |
@@ -182,6 +183,7 @@ Maintain a clean, structured study log
 | [0455-assign-cookies](https://github.com/aniket709/dsa/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aniket709/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/aniket709/dsa/tree/master/0680-valid-palindrome-ii) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/aniket709/dsa/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/aniket709/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniket709/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aniket709/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
