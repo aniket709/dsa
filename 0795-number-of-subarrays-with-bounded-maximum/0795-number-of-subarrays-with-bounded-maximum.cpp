@@ -1,21 +1,24 @@
 class Solution {
 public:
-    int numSubarrayBoundedMax(vector<int>& nums, int l, int r) {
+    int numSubarrayBoundedMax(vector<int>& nums, int left, int right) {
 
-            int cnt=0;
-            int left=-1,right=-1;
-            for (int i=0;i<nums.size();i++){
+        int i=0,j=0,cnt=0,maxi=0,n=nums.size();
 
-                if (nums[i] > r) left =i;
-
-             if (nums[i] >=l) right=i;
-
-                cnt+=right-left;
+        while (j < n){
+            if (nums[j]>right){
+                maxi=0;
+                i=j+1;
             }
 
+            else if (nums[j]<=right && nums[j] >=left){
+                maxi = j-i+1;
+                // j++;
+            }
+            cnt+=maxi;
+                j++;
+        }
+    
 return cnt;
-
-
         
     }
 };
